@@ -1,18 +1,18 @@
-Syp-Projekt
+# Syp-Projekt
 
-Hausbetreuung Bauchinger:
+## Hausbetreuung Bauchinger:
 
-    Anna-Sophie Bauchinger
-    Emilio Bauchinger
+- Anna-Sophie Bauchinger
+- Emilio Bauchinger
 
-Betreuungslehrer:
+## Betreuungslehrer:
 
-    Mag. Gerald Hainbucher
-    Sarah Steininger, BSc.
+- Mag. Gerald Hainbucher
+- Sarah Steininger, BSc.
 
-Entwickler:
+## Entwickler:
 
-    Max Wintereder
-    Elias Ongun
-    Emilio Kamer
-    Paul Watzenböck
+- Max Wintereder
+- Elias Ongun
+- Emilio Kamer
+- Paul Watzenböck
